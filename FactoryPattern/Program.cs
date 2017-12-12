@@ -10,6 +10,13 @@ namespace FactoryPattern
     {
         static void Main(string[] args)
         {
+            ShapeFactory factory = new ShapeFactory();
+            var square = factory.getShape("square");
+            square.draw();
+            var rectangle = factory.getShape("rectangle");
+            rectangle.draw();
+            var circle = factory.getShape("circle");
+            circle.draw();
         }
     }
 }
