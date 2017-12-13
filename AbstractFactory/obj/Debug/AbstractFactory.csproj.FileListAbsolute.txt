@@ -1,0 +1,2 @@
+D:\Duyen\Study\DesignPattern\AbstractFactory\bin\Debug\AbstractFactory.exe.config
+D:\Duyen\Study\DesignPattern\AbstractFactory\obj\Debug\AbstractFactory.csprojResolveAssemblyReference.cache
