@@ -10,6 +10,13 @@ namespace Builder
     {
         static void Main(string[] args)
         {
+            MealBuilder mb = new MealBuilder();
+            Console.WriteLine("Veg meal");
+            Meal VegMeal = mb.prepareVegMeal();
+            Console.WriteLine("Cost: ", VegMeal.getCost());
+            Console.WriteLine("Non Veg meal");
+            Meal m = mb.prepareNonVegMeal();
+            Console.WriteLine("Cost: ", m.getCost());
         }
     }
 }

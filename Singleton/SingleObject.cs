@@ -8,7 +8,7 @@ namespace Singleton
 {
     public class SingleObject
     {
-        private static SingleObject instance = null;
+        private static SingleObject instance = new SingleObject();
 
         private SingleObject() { }
 
