@@ -1,0 +1,6 @@
+D:\Duyen\Study\DesignPattern\Adapter\bin\Debug\Adapter.exe.config
+D:\Duyen\Study\DesignPattern\Adapter\obj\Debug\Adapter.csprojResolveAssemblyReference.cache
+D:\Duyen\Study\DesignPattern\Adapter\bin\Debug\Adapter.exe
+D:\Duyen\Study\DesignPattern\Adapter\bin\Debug\Adapter.pdb
+D:\Duyen\Study\DesignPattern\Adapter\obj\Debug\Adapter.exe
+D:\Duyen\Study\DesignPattern\Adapter\obj\Debug\Adapter.pdb
