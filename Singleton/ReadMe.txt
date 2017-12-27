@@ -1,0 +1,2 @@
+﻿The singleton design pattern is a creational design pattern which makes sure that you have one single instance of a particular class
+in the duration of your runtime, and provides a global point of access to the single instance.

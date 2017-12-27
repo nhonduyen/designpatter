@@ -1,0 +1,5 @@
+D:\Duyen\Study\DesignPattern\Facade\bin\Debug\Facade.exe.config
+D:\Duyen\Study\DesignPattern\Facade\bin\Debug\Facade.exe
+D:\Duyen\Study\DesignPattern\Facade\bin\Debug\Facade.pdb
+D:\Duyen\Study\DesignPattern\Facade\obj\Debug\Facade.exe
+D:\Duyen\Study\DesignPattern\Facade\obj\Debug\Facade.pdb
